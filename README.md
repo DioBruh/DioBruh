@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dio Brando
-I'm a full stack developer and use languages: python, C, C#, GML, javascript, Ruby, C
+<span>My name is Dio Brando, my age is 17, Im full stack devoloper and use these languages: C#, Ruby, C, Java Script, Python, C++</span>
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBruh&layout=compact&theme=great-gatsby)
 
