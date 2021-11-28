@@ -16,7 +16,8 @@
     <li>Python
     <li>Shell Script
     <li> Html, css, js
-    <li>Gml.
+    <li>Gml
+    <li>Java.
     <b></li></span>
 </p>
 
