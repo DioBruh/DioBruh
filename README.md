@@ -16,7 +16,7 @@
     <li>JS
     <li>Python
     <li>Shell Script
-    <li>GML<b></li></span>
+    <li>GML.<b></li></span>
 </p>
 
 <p align="center">
@@ -26,4 +26,4 @@
 </p>
 
 <span>Follow my channel in youtube.</span><br><br>
-[![Anurag's GitHub stats](https://img.shields.io/youtube/channel/subscribers/UC_M56PGDbhCmPV3ymhNL5xQ?style=plastic)](https://www.youtube.com/channel/UC_M56PGDbhCmPV3ymhNL5xQ)
+[![](https://img.shields.io/youtube/channel/subscribers/UC_M56PGDbhCmPV3ymhNL5xQ?style=plastic)](https://www.youtube.com/channel/UC_M56PGDbhCmPV3ymhNL5xQ)
