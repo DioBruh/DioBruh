@@ -1,7 +1,29 @@
-### Hi there 👋, my name is Dio Brando
-<span>My name is Dio Brando, my age is 17, Im full stack devoloper and use these languages: C#, Ruby, C, Java Script, Python, C++</span>
+### Hi people 👋
+<p align="center">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"width="30px">
+  <span>My name is DIO-BRANDO. I'm Full stack developer and ethical hacking student.</span>
+</p>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBruh&layout=compact&theme=great-gatsby)
+<p align="center">
+  <img src="https://itadakimasuanimes.files.wordpress.com/2018/09/kono-dio-da-gif-2.gif"width="300px">
+</p>
+<p align="left">
+  <span><b>I like to program in. 
+    <li>C 
+    <li>C# 
+    <li>C++
+    <li>Ruby
+    <li>JS
+    <li>Python
+    <li>Shell Script
+    <li>GML<b></li></span>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DioBruh&theme=aura&show_icons=true"width="450px"><br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioBruh&layout=compact&theme=aura"width"450px">
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioBruh&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<span>Follow my channel in youtube.</span><br><br>
+[![Anurag's GitHub stats](https://img.shields.io/youtube/channel/subscribers/UC_M56PGDbhCmPV3ymhNL5xQ?style=plastic)](https://www.youtube.com/channel/UC_M56PGDbhCmPV3ymhNL5xQ)
