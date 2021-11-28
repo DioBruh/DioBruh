@@ -8,15 +8,16 @@
   <img src="https://itadakimasuanimes.files.wordpress.com/2018/09/kono-dio-da-gif-2.gif"width="300px">
 </p>
 <p align="left">
-  <span><b>I like to program in. 
+  <span><b>I study and develop in 
     <li>C 
     <li>C# 
     <li>C++
     <li>Ruby
-    <li>JS
     <li>Python
     <li>Shell Script
-    <li>GML.<b></li></span>
+    <li> Html, css, js
+    <li>Gml.
+    <b></li></span>
 </p>
 
 <p align="center">
