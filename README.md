@@ -1,7 +1,7 @@
 ### Hi people 👋
 <p align="center">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"width="30px">
-  <span>My name is DIO-BRANDO. I'm Full stack developer and ethical hacking student.</span>
+  <span>My name is DIO-BRANDO. I'm 17 years old and I'm Full stack developer and ethical hacking student.</span>
 </p>
 
 
