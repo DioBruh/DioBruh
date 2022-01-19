@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DioBruh&theme=aura&show_icons=true"width="450px"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DioBruh&theme=onedark&show_icons=true"width="450px"><br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioBruh&layout=compact&theme=aura"width"450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioBruh&hide=html&layout=compact&theme=onedark"width"450px">
 </p>
 
 
