@@ -5,12 +5,3 @@
   <span>My favorite languages are between c++, ruby, c, c#. Currently my favorite language is C.
 <br><br></span>
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DioBruh&theme=dark&show_icons=true"width="450px"><br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioBruh&hide=html&layout=compact&theme=dark"width"450px">
-</p>
-
-
